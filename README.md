@@ -55,8 +55,8 @@ Les dades disponibles a través del servei són les que es presenten a continuac
 
 | **PRODUCTE** | **MODALITAT** | **DESCRIPCIO** |
 | --- | --- | --- |
-| **PADRO\_HISTORIC** | TITULAR\_HISTORIC | Dades històriques de residència (IDESCAT).|
-| **PADRO\_HISTORIC** | CONVIVENTS\_HISTORIC | Dades històriques de convivència (IDESCAT). |
+| **PADRO\_HISTORIC** | [TITULAR\_HISTORIC](#3.1) | Dades històriques de residència (IDESCAT).|
+| **PADRO\_HISTORIC** | [CONVIVENTS\_HISTORIC](#3.2) | Dades històriques de convivència (IDESCAT). |
 
 Totes les consultes del producte tenen disponible la versió imprimible del resultat de la consulta en format PDF. Per més detalls adreceu-vos a l'apartat _Extensions de missatgeria_ del document de missatgeria genèrica.
 
