@@ -46,7 +46,9 @@ Aquest document detalla la missatgeria associada al servei corresponent a l'info
 
 Per a poder realitzar la integració cal conèixer prèviament la següent documentació:
 
-- Document de Missatgeria Genèrica de la PCI del Consorci AOC.
+- [Document de Missatgeria Genèrica de la PCI del Consorci AOC.][PCI]
+
+[PCI]:https://github.com/ConsorciAOC/PCI
 
 
 ## 2 Transmissions de dades disponibles <a name="2"></a>
